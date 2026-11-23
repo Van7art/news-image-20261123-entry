@@ -1,8 +1,12 @@
-# THE WORLD — Monday 23 November 2026
+# news-image-20261123-entry
+
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/Van7art/news-image-20261123-entry/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/Van7art/news-image-20261123-entry/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 A one-image summary of the world's news on Monday 23 November 2026, drawn
-as a classic broadsheet front page. Variant A of the news-image-20261123
-entry for make.fun.
+as a classic broadsheet front page titled **THE WORLD**. Variant A of the
+news-image-20261123 entry for make.fun.
 
 ## The image
 
@@ -37,7 +41,7 @@ entry for make.fun.
 All twelve stories are from Monday 23 November 2026. See `NOTES.md` for
 one-line source notes.
 
-## How to run
+## Run it
 
 ```sh
 python3 gen.py            # regenerate entry.png (needs Pillow)
@@ -52,3 +56,5 @@ identical bytes.
 ## License
 
 MIT — see `LICENSE`.
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards</sub>
